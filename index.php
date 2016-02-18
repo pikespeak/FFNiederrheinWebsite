@@ -86,19 +86,16 @@
         <footer class="main-footer">
             <ul class="list-external-links">
                 <li>
-                    <a href="https://www.facebook.com/FreifunkFlensburg" title="Erfahre mehr über uns bei Facebook." class="facebook" target="_blank">Facebook</a>
+                    <a href="https://www.facebook.com/FreifunkNiederrhein" title="Erfahre mehr über uns bei Facebook." class="facebook" target="_blank">Facebook</a>
                 </li>
                 <li>
-                    <a href="https://twitter.com/FreiFunkFlens" title="Erfahre mehr über uns bei Twitter." class="twitter" target="_blank">Twitter</a>
+                    <a href="https://twitter.com/FFNiederrhein" title="Erfahre mehr über uns bei Twitter." class="twitter" target="_blank">Twitter</a>
                 </li>
                 <li>
-                    <a href="http://nordlab-ev.de" class="nordlab" title="Wir gehören zum nordlab e.V." target="_blank">nordlab e.V.</a>
+                    <a href="http://freifunk-rheinland.net" class="nordlab" title="Wir gehören zum freifunk rheinland e.V." target="_blank">freifunk rheinland e.V.</a>
                 </li>
                 <li>
                     <a href="http://freifunk.net/" class="freifunk" title="Die Webseite der Freifunk-Initiative" target="_blank">freifunk.net</a>
-                </li>
-                <li>
-                    <a href="https://github.com/freifunk-flensburg" class="github" title="Unser Code im Netz, zum Nachschlagen und Mitarbeiten.">GitHub</a>
                 </li>
             </ul>
         </footer>
