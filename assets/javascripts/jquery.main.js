@@ -39,7 +39,7 @@ $(document).ready(function() {
         var map = L.map('map', {
             icon: myIcon,
             scrollWheelZoom: false,
-            center: [54.790961, 9.435912],
+            center: [51.705092, 6.287471],
             zoom: 13
         });
 
