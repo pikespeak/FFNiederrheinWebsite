@@ -7,8 +7,8 @@
     <head name="start">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Freifunk Flensburg</title>
-        <meta name="description" content="Freifunk Flensburg ist dein freies WLAN zum selber machen, in Flensburg und Umgebung.">
+        <title>Freifunk Niederrhein</title>
+        <meta name="description" content="Freifunk Niederrhein ist dein freies WLAN zum selber machen.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="assets/stylesheets/style.css">
@@ -25,7 +25,7 @@
         <div class="main-header-wrap">
             <header id="main-header">
                 <h1 class="logo">
-                    <a href="#start">Freifunk Flensburg</a>
+                    <a href="#start">Freifunk Niederrhein</a>
                 </h1>
                 <nav class="main-navigation">
                     <ul>
@@ -34,7 +34,7 @@
                         <li><a href="#participate">Mitmachen</a></li>
                         <li><a href="#faq">FAQ</a></li>
                         <li><a href="#contact">Kontakt</a></li>
-                        <li><a target="_blank" href="http://wiki.freifunk-flensburg.de/wiki/Hauptseite">Wiki</a></li>
+                        <li><a target="_blank" href="https://wiki.freifunk-rheinland.net/wiki/Hauptseite">Wiki</a></li>
                     </ul>
                 </nav>
             </header>
@@ -47,7 +47,7 @@
                 <?php include('content/about.php'); ?>
             </section>
             <figure class="section-image">
-                <img name="find-us" id="find-us" src="media/freifunk-flensburg-smartphone-by-fabian-horst.jpg" alt="Freifunk Flensburg - auch in deiner Nähe">
+                <img name="find-us" id="find-us" src="media/freifunk-flensburg-smartphone-by-fabian-horst.jpg" alt="Freifunk Niederrhein - auch in deiner Nähe">
                 <figcaption>
                     <h2>Auch in deiner Nähe</h2>
                 </figcaption>
@@ -56,7 +56,7 @@
                 <?php include('content/find-us.php'); ?>
             </section>
             <figure name="participate" id="participate" class="section-image">
-                <img src="media/freifunk-flensburg-routerhafenspitze-by-fabian-horst.jpg" alt="Freifunk Flensburg - Router an der Hafenspitze">
+                <img src="media/freifunk-flensburg-routerhafenspitze-by-fabian-horst.jpg" alt="Freifunk Niederrhein - Router an der Hafenspitze">
                 <figcaption>
                     <h2>Mach mit, bewege Bytes</h2>
                 </figcaption>
@@ -65,7 +65,7 @@
                 <?php include('content/participate.php'); ?>
             </section>
             <figure name="faq" id="faq" class="section-image">
-                <img src="media/freifunk-flensburg-fragen-by-fabian-horst.jpg" alt="Freifunk Flensburg - Mit den richtigen Antworten">
+                <img src="media/freifunk-flensburg-fragen-by-fabian-horst.jpg" alt="Freifunk Niederrhein - Mit den richtigen Antworten">
                 <figcaption>
                     <h2>Wir haben Antworten</h2>
                 </figcaption>
@@ -74,7 +74,7 @@
                 <?php include('content/faq.php'); ?>
             </section>
             <figure name="contact" id="contact" class="section-image">
-                <img src="media/freifunk-flensburg-kontakte.jpg" alt="Basteln beim Freifunk Flensburg">
+                <img src="media/freifunk-flensburg-kontakte.jpg" alt="Basteln beim Freifunk Niederrhein">
                 <figcaption>
                     <h2>Jede Menge Kontakt(e)</h2>
                 </figcaption>

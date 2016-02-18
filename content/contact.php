@@ -1,6 +1,6 @@
 <div class="contact_left">
 	<h3>Offline</h3>
-	<p>Freifunk Flensburg ist ein Community mit Unterstützung des nordlab e. V. &ndash; Interessierte sind gerne eingeladen bei den Treffen des nordlab e. V. montags im Offenen Kanal, St.-Jürgen-Straße 95, ab 18:00 Uhr vorbei zu schauen.<br></p>
+	<p>Freifunk Niederrhein ist ein Community mit Unterstützung des Freifunk Rheinland e. V. &ndash; Interessierte sind gerne eingeladen bei den Treffen des nordlab e. V. montags im Offenen Kanal, St.-Jürgen-Straße 95, ab 18:00 Uhr vorbei zu schauen.<br></p>
 	<address>
 		Telefon: <a href="tel:0461574945882">0461 574945882</a>  <br>
 		nordlab e. V. <br>
@@ -11,12 +11,9 @@
 <div class="contact_right">
 	<h3>Online</h3>
 	<address>
-		E-Mail-Adresse: <a target="_blank" href="mailto:presse@freifunk-flensburg.de">presse@freifunk-flensburg.de</a><br>
-		Facebook: <a target="_blank" href="https://www.facebook.com/FreifunkFlensburg">facebook.com/FreifunkFlensburg</a><br>
-		Twitter: <a target="_blank" href="https://twitter.com/FreiFunkFlens">@FreiFunkFlens</a><br>
-		IRC: <a target="_blank" href="http://wiki.freifunk-flensburg.de/wiki/IRC">#freifunk-flensburg</a><br>
-		Mailingliste: <a target="_blank" href="http://lists.freifunk-flensburg.de/listinfo/freifunk">Anmeldung</a>
-	</address>
-	<p>Besuche uns im <a href="https://kiwiirc.com/client/irc.lugfl.de:+6668/?nick=Website-Guest|?#freifunk-flensburg" target="_blank">Webchat</a>.</p>
-	<p>Videos von uns findest du auch auf unserem <a href="https://www.youtube.com/channel/UCWX6f-3kFLJkuPwWvnZX3fA/" target="blank">YouTube-Kanal</a>.</p>
+		E-Mail-Adresse: <a target="_blank" href="mailto:info@freifunk-niederrhein.de">info@freifunk-niederrhein.de</a><br>
+		Facebook: <a target="_blank" href="https://www.facebook.com/freifunkniederrhein">facebook.com/FreifunkNiederrhein</a><br>
+		Twitter: <a target="_blank" href="https://twitter.com/FFNiederrhein">@FFNiederrhein</a><br>
+		Slack: <a target="_blank" href="freifunkniederrhein.slack.com">#Freifunk-Niederrhein-Chat</a><br>
+		</address>
 </div>
