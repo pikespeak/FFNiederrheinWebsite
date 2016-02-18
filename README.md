@@ -15,7 +15,7 @@ The map is generated from a file `nodes.json` in the root directory. This file g
 - **@pikespeak:** Content
 
 
-
+Thx at
 ### Created by:
 
 - **@malteriechmann:** Code & Design
@@ -35,4 +35,3 @@ The map is generated from a file `nodes.json` in the root directory. This file g
 
 ---
 
-*Freifunk Flensburg is a project by the nordlab e.V. and Chaostreff-Flensburg*
