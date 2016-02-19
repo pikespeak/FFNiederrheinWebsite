@@ -105,13 +105,14 @@
         </select>
     </div>
     <button class="button">Herunterladen</button>
-    <p>Eine Anleitung wie du die Freifunk Niederrhein Firmware auf deinem Router selber installieren kannst findest du bei uns <a href="http://wiki.freifunk-flensburg.de/wiki/Einen_Knoten_einrichten">hier im Wiki</a>. Die Freifunk Niederrhein Firmware steht unter der <a href="http://de.wikipedia.org/wiki/GNU_General_Public_License" target="_blank">GPL Lizenz</a>. Du darfst sie somit kostenlos nutzen, studieren, ändern und verbreiten.</p>
+    <p>Eine Anleitung wie du die Freifunk Niederrhein Firmware auf deinem Router selber installieren kannst findest du bei uns <a href="http://freifunk-ruhrgebiet.de/anleitung/">hier im Wiki</a>. Die Freifunk Niederrhein Firmware steht unter der <a href="http://de.wikipedia.org/wiki/GNU_General_Public_License" target="_blank">GPL Lizenz</a>. Du darfst sie somit kostenlos nutzen, studieren, ändern und verbreiten.</p>
 </form>
 <aside class="participate_list-links">
-    <h2>Links zu Freifunk Flensburg</h2>
+    <h2>Links zu Freifunk Niederrhein</h2>
     <ul>
-        <li><a target="_blank" href="http://wiki.freifunk-flensburg.de/wiki/Hauptseite">Freifunk Flensburg Wiki</a> - Unser gesammeltes Wissen</li>
-        <li><a target="_blank" href="https://github.com/freifunk-flensburg">GitHub</a> - Unser Code zum Mitbasteln</li>
+        <li><a target="_blank" href="https://wiki.freifunk-rheinland.net/wiki/Hauptseite">Freifunk Rheinland Wiki</a> - Unser gesammeltes Wissen</li>
+        <li><a target="_blank" href="http://images.niederrhein.freifunk.ruhr">Freifunk Firmware</a> - Unsere Freifunk Firmware</li>
+        <li><a target="_blank" href="https://github.com/ffruhr/">GitHub</a> - Unser Code zum Mitbasteln</li>
         <li><a target="_blank" href="http://map.niederrhein.freifunk.ruhr/meshviewer/fffl/">Die Mesh-Map</a> - Unsere detailierte Knotenkarte</li>
         <li><a target="_blank" href="https://freifunk-rheinland.net/">Freifunk Rheinland e.V.</a></li>
     </ul>
