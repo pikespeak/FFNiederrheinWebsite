@@ -2,19 +2,19 @@
 #RewriteCond %{HTTPS} !=on
 #RewriteCond %{ENV:HTTPS} !=on
 #RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
-AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript text/javascript
+#AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript text/javascript
 AddType application/vnd.bw-fontobject .eot
 AddType application/x-font-ttf .ttf
 AddType application/x-woff .woff
 #ExpiresActive On
-ExpiresByType text/css "access plus 1 month"
-ExpiresByType text/javascript "access plus 1 month"
-ExpiresByType text/html "access plus 1 month"
-ExpiresByType application/javascript "access plus 1 month"
-ExpiresByType image/gif "access plus 1 month"
-ExpiresByType image/jpeg "access plus 1 month"
-ExpiresByType image/png "access plus 1 month"
-ExpiresByType image/x-icon "access plus 1 month"
-ExpiresByType application/vnd.bw-fontobject "access plus 1 month"
-ExpiresByType application/x-font-ttf "access plus 1 month"
-ExpiresByType application/x-woff "access plus 1 month"
+#ExpiresByType text/css "access plus 1 month"
+#ExpiresByType text/javascript "access plus 1 month"
+#ExpiresByType text/html "access plus 1 month"
+#ExpiresByType application/javascript "access plus 1 month"
+#ExpiresByType image/gif "access plus 1 month"
+#ExpiresByType image/jpeg "access plus 1 month"
+#ExpiresByType image/png "access plus 1 month"
+#ExpiresByType image/x-icon "access plus 1 month"
+#ExpiresByType application/vnd.bw-fontobject "access plus 1 month"
+#ExpiresByType application/x-font-ttf "access plus 1 month"
+#ExpiresByType application/x-woff "access plus 1 month"
