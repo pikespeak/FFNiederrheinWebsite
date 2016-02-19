@@ -40,7 +40,7 @@ $(document).ready(function() {
             icon: myIcon,
             scrollWheelZoom: false,
             center: [51.705092, 6.287471],
-            zoom: 13
+            zoom: 10
         });
 
         L.tileLayer('http://otile1.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
