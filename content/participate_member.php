@@ -1,4 +1,5 @@
 <form class="participate_download-form" id="download-form">
+<!--
     <h3>Firmware-Download</h3>
     <label>Wähle eine Aktion aus:</label>
     <div class="select-field">
@@ -121,7 +122,9 @@
         <option value="-x86-vmware.vmdk">x86 Image für VMWare</option>
         </select>
     </div>
+
     <button class="button">Herunterladen</button>
+    -->
     <p>Eine Anleitung wie du die Freifunk Niederrhein Firmware auf deinem Router selber installieren kannst findest du bei uns <a href="http://freifunk-ruhrgebiet.de/anleitung/">hier im Wiki</a>. Die Freifunk Niederrhein Firmware steht unter der <a href="http://de.wikipedia.org/wiki/GNU_General_Public_License" target="_blank">GPL Lizenz</a>. Du darfst sie somit kostenlos nutzen, studieren, ändern und verbreiten.</p>
 </form>
 <aside class="participate_list-links">
