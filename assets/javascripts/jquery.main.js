@@ -125,53 +125,8 @@ $(document).ready(function() {
             case '0':
                 community = 'notset';
                 break;
-            case 'ffalpen':
-                community = 'ffalpen';
-                break;
-            case 'ffbgh':
-                community = 'ffbgh';
-                break;
-            case 'ffemm':
-                community = 'ffemm';
-                break;
-            case 'fffl':
-                community = 'fffl';
-                break;
-            case 'ffgel':
-                community = 'ffgel';
-                break;
-            case 'ffgoch':
-                community = 'ffgoch';
-                break;
-            case 'ffhnx':
-                community = 'ffhnx';
-                break;
-            case 'ffkev':
-                community = 'ffkev';
-                break;
-            case 'ffkkar':
-                community = 'ffkkar';
-                break;
-            case 'ffkle':
-                community = 'ffkle';
-                break;
-            case 'ffkra':
-                community = 'ffkra';
-                break;
-            case 'ffree':
-                community = 'ffree';
-                break;
-            case 'ffstr':
-                community = 'ffstr';
-                break;
-            case 'ffwawa':
-                community = 'ffwawa';
-                break;
-            case 'ffwes':
-                community = 'ffwes';
-                break;
-            case 'ffxan':
-                community = 'ffxan';
+            case '1':
+                community = 'nordlab';
                 break;
             default:
                 community = 'notset';
@@ -187,9 +142,8 @@ $(document).ready(function() {
                     window.alert('Bitte gib eine Comunity an.');
                 }
                 else {
-                    prefix = 'gluon-';
-                    version = '0.7.3';
-                    window.location.href = 'http://images.niederrhein.freifunk.ruhr/' + community + '/' + 'stable'  + '/' + type + '/' + prefix +  community + '-' + version + '+stable+'+ community + router + fileExtension + '.bin';
+                    prefix = 'gluon-fffl-stable-2015.1.2-0';
+                    window.location.href = 'media/firmware/' + community + '/' + type + '/' + prefix + router + fileExtension + '.bin';
                 }
         }
 
