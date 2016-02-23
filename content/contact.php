@@ -2,10 +2,8 @@
 	<h3>Offline</h3>
 	<p>Freifunk Niederrhein ist ein Community mit Unterstützung des Freifunk Rheinland e. V. &ndash; Interessierte sind gerne eingeladen bei den Treffen des Freifunk Niederrein welches in den Teilnehmenden Städten stattfindet vorbei zu schauen.<br></p>
 	<address>
-		Telefon: <a href="tel:0461574945882">0461 574945882</a>  <br>
+		Telefon: <a href="tel:Christian: 0151 20081609">0151 20081609</a>  <br>
 		Fax: <a target="_blank" href="https://twitter.com/pikespeak_marol/status/700430941790081025">Faxnummer?</a><br>
-		Zur Bleiche 12 <br>
-		24941 Flensburg
 	</address>
 </div>
 <div class="contact_right">
