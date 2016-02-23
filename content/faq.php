@@ -38,6 +38,6 @@
 		<h4>Frage</h4>
 		<p>Wie verbinden sich eure Router und woher kommt dieses neue WLAN mit komischen Namen?</p>
 		<h4>Antwort</h4>
-		<p>Unsere Knoten verbinden sich über ihr WLAN kabellos zu einem Mesh-Netzwerk, das heisst sie sprechen miteinander. So können zwei Knoten Daten austauschen, ihren Internetanschluss teilen und so das Freifunknetz erweitern. Dafür baut jeder Router auch ein Netzwerk mit dem Namen mesh.XXX auf. Dieses kannst du getrost ignorieren.</p>
+		<p>Unsere Knoten verbinden sich über ihr WLAN kabellos zu einem Mesh-Netzwerk, das heisst sie sprechen miteinander. So können zwei Knoten Daten austauschen, ihren Internetanschluss teilen und so das Freifunknetz erweitern. Dafür baut jeder Router auch ein Netzwerk mit dem Namen mesh.NamedeinerStadt auf. Dieses kannst du getrost ignorieren.</p>
 	</article>
 </section>
