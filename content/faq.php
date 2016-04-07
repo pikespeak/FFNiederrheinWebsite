@@ -16,7 +16,7 @@
 		<h4>Frage</h4>
 		<p>Was ist wenn jemand etwas illegales über meinen Knoten herrunterlädt?</p>
 		<h4>Antwort</h4>
-		<p>Du musst dir keine Sorgen machen, dass du Post von einem Anwalt bekommst. Wir sorgen mit technischen Mitteln dafür, das alles was über die Freifunk Knoten passiert nicht direkt, sondern über uns ins Internet geht. Der Freifunkverkehr wird verschlüsselt und über unsere Server ins Netz geleitet. So musst du dir keine Sorge um die Störerhaftung machen, falls jemand über deinen Knoten Illegales herrunterlädt.</p>
+		<p>Du musst dir keine Sorgen machen, dass du Post von einem Anwalt bekommst. Wir sorgen mit technischen Mitteln dafür, das alles was über die Freifunk Knoten passiert nicht direkt, sondern über uns ins Internet geht. Der Freifunkverkehr wird über unsere Server ins Netz geleitet. So musst du dir keine Sorge um die Störerhaftung machen, falls jemand über deinen Knoten Illegales herrunterlädt.</p>
 	</article>
 </section>
 
