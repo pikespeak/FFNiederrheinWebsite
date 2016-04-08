@@ -16,7 +16,7 @@
 		<h4>Frage</h4>
 		<p>Was ist wenn jemand etwas illegales über meinen Knoten herrunterlädt?</p>
 		<h4>Antwort</h4>
-		<p>Du musst dir keine Sorgen machen, dass du Post von einem Anwalt bekommst. Wir sorgen mit technischen Mitteln dafür, das alles was über die Freifunk Knoten passiert nicht direkt, sondern über uns ins Internet geht. Der Freifunkverkehr wird verschlüsselt und über unsere Server ins Netz geleitet. So musst du dir keine Sorge um die Störerhaftung machen, falls jemand über deinen Knoten Illegales herrunterlädt.</p>
+		<p>Du musst dir keine Sorgen machen, dass du Post von einem Anwalt bekommst. Wir sorgen mit technischen Mitteln dafür, das alles was über die Freifunk Knoten passiert nicht direkt, sondern über uns ins Internet geht. Der Freifunkverkehr wird über unsere Server ins Netz geleitet. So musst du dir keine Sorge um die Störerhaftung machen, falls jemand über deinen Knoten Illegales herrunterlädt.</p>
 	</article>
 </section>
 
@@ -38,6 +38,6 @@
 		<h4>Frage</h4>
 		<p>Wie verbinden sich eure Router und woher kommt dieses neue WLAN mit komischen Namen?</p>
 		<h4>Antwort</h4>
-		<p>Unsere Knoten verbinden sich über ihr WLAN kabellos zu einem Mesh-Netzwerk, das heisst sie sprechen miteinander. So können zwei Knoten Daten austauschen, ihren Internetanschluss teilen und so das Freifunknetz erweitern. Dafür baut jeder Router auch ein Netzwerk mit dem Namen 22:22:54:78:09:43 auf. Dieses kannst du getrost ignorieren.</p>
+		<p>Unsere Knoten verbinden sich über ihr WLAN kabellos zu einem Mesh-Netzwerk, das heisst sie sprechen miteinander. So können zwei Knoten Daten austauschen, ihren Internetanschluss teilen und so das Freifunknetz erweitern. Dafür baut jeder Router auch ein Netzwerk mit dem Namen mesh.NamedeinerStadt auf. Dieses kannst du getrost ignorieren.</p>
 	</article>
 </section>
