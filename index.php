@@ -15,7 +15,18 @@
         <link rel="icon" sizes="192x192" href="highres-favicon.png">
         <meta name="theme-color" content="#ffffff">
         <link rel="manifest" href="manifest.json">
+
+<meta property="og:title" content="Freifunk Niederrhein" />
+<meta property="og:description" content="Freifunk Niederrhein ist dein freies WLAN zum selber machen." />
+<meta property="og:image" content="https://www.freifunk-niederrhein.de/tile.png" />
+<meta property="og:url" content="https://www.freifunk-niederrhein.de/" />
+
+        
         <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script src='https://cdn.slaask.com/chat.js'></script>
+<script>
+    _slaask.init('90c90e3afc0c73aa826fea8464db928e');
+</script>
     </head>
     <body id="start">
         <!--[if lt IE 9]>
