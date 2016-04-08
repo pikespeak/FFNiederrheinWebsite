@@ -1,4 +1,5 @@
 <form class="participate_download-form" id="download-form">
+<!--
     <h3>Firmware-Download</h3>
     <label>Wähle eine Aktion aus:</label>
     <div class="select-field">
@@ -7,19 +8,34 @@
             <option value="1">Freifunk Firmware updaten</option>
         </select>
     </div>
-    <label>Wähle eine Community:</label>
+    <label>Wähle eine Stadt:</label>
     <div class="select-field">
         <select id="download_form_choose_comunity">
             <option value="0">Bitte auswählen</option>
-            <option value="1">Offizielle Community Firmware</option>
+            <option value="ffalpen">Alpen</option>
+			<option value="ffbgh">Bedburg Hau</option>
+			<option value="ffemm">Emmerich</option>
+			<option value="fffl">Offizielle Community Firmware</option>
+			<option value="ffgel">Geldern</option>
+			<option value="ffgoch">Goch</option>
+			<option value="ffhnx">Hünxe</option>
+			<option value="ffkev">Kevelaer</option>
+			<option value="ffkkar">Kalkar</option>
+			<option value="ffkle">Kleve</option>
+			<option value="ffkra">Kranenburg</option>
+            <option value="ffree">Rees</option>
+			<option value="ffstr">Straelen</option>
+			<option value="ffwawa">Wachtendonk/Wankum</option>
+			<option value="ffwes">Wesel</option>
+			<option value="ffwez">Weeze</option>
+			<option value="ffxan">Xanten</option>
             </select>
     </div>
     <label>Wähle einen Router aus:</label>
     <div class="select-field">
         <select id="download-form-router">
             <option value="-1">Bitte wähle einen Router aus</option>
-	    <option value="-allnet-all0315n">Allnet 0315n</option>
-            <option value="-buffalo-wzr-hp-ag300h-wzr-600dhp">Buffalo WZR HP AG300H WZR 600DHP</option>
+	        <option value="-buffalo-wzr-hp-ag300h-wzr-600dhp">Buffalo WZR HP AG300H WZR 600DHP</option>
             <option value="-buffalo-wzr-hp-g450h">Buffalo WZR HP G450H</option>
             <option value="-d-link-dir-615-rev-c1">D-Link 615 Rev:c1</option>
             <option value="-d-link-dir-825-rev-b1">D-Link 825 Rev:b1</option>
@@ -100,19 +116,24 @@
             <option value="-ubiquiti-unifi">Ubiquiti UniFi</option>
 	    <option value="-ubiquiti-unifi-ap-pro">Ubiquiti UniFi AP-Pro</option>
             <option value="-ubiquiti-unifiap-outdoor">Ubiquiti UniFi AP-Outdoor</option>
-	    <option value="-x86-generic">x86 Image für generische Prozessoren</option>
-	    <option value="-x86-kvm">x86 Image für KVM</option>
+	    <option value="-x86-generic.img.gz">x86 Image für generische Prozessoren</option>
+	    <option value="-x86-kvm.img.gz">x86 Image für KVM</option>
+        <option value="-x86-virtualbox.vdi">x86 Image für Virtualbox</option>
+        <option value="-x86-vmware.vmdk">x86 Image für VMWare</option>
         </select>
     </div>
+
     <button class="button">Herunterladen</button>
-    <p>Eine Anleitung wie du die Freifunk Niederrhein Firmware auf deinem Router selber installieren kannst findest du bei uns <a href="http://wiki.freifunk-flensburg.de/wiki/Einen_Knoten_einrichten">hier im Wiki</a>. Die Freifunk Niederrhein Firmware steht unter der <a href="http://de.wikipedia.org/wiki/GNU_General_Public_License" target="_blank">GPL Lizenz</a>. Du darfst sie somit kostenlos nutzen, studieren, ändern und verbreiten.</p>
+    -->
+    <p>Eine Anleitung wie du die Freifunk Niederrhein Firmware auf deinem Router selber installieren kannst findest du bei uns <a href="http://freifunk-ruhrgebiet.de/anleitung/">hier im Wiki</a>. Die Freifunk Niederrhein Firmware steht unter der <a href="http://de.wikipedia.org/wiki/GNU_General_Public_License" target="_blank">GPL Lizenz</a>. Du darfst sie somit kostenlos nutzen, studieren, ändern und verbreiten.</p>
 </form>
 <aside class="participate_list-links">
-    <h2>Links zu Freifunk Flensburg</h2>
+    <h2>Links zu Freifunk Niederrhein</h2>
     <ul>
-        <li><a target="_blank" href="http://wiki.freifunk-flensburg.de/wiki/Hauptseite">Freifunk Flensburg Wiki</a> - Unser gesammeltes Wissen</li>
-        <li><a target="_blank" href="https://github.com/freifunk-flensburg">GitHub</a> - Unser Code zum Mitbasteln</li>
-        <li><a target="_blank" href="http://map.niederrhein.freifunk.ruhr/meshviewer/fffl/">Die Mesh-Map</a> - Unsere detailierte Knotenkarte</li>
+        <li><a target="_blank" href="https://wiki.freifunk-rheinland.net/wiki/Hauptseite">Freifunk Rheinland Wiki</a> - Unser gesammeltes Wissen</li>
+        <li><a target="_blank" href="http://images.niederrhein.freifunk.ruhr">Freifunk Firmware</a> - Unsere Freifunk Firmware</li>
+        <li><a target="_blank" href="https://github.com/ffruhr/">GitHub</a> - Unser Code zum Mitbasteln</li>
+        <li><a target="_blank" href="http://map.freifunk-niederrhein.de">Die Mesh-Map</a> - Unsere detailierte Knotenkarte</li>
         <li><a target="_blank" href="https://freifunk-rheinland.net/">Freifunk Rheinland e.V.</a></li>
     </ul>
     <h2>Allgemeine Freifunk Links</h2>
