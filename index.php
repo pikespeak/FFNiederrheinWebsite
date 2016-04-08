@@ -45,7 +45,7 @@
                         <li><a href="#participate">Mitmachen</a></li>
                         <li><a href="#faq">FAQ</a></li>
                         <li><a href="#contact">Kontakt</a></li>
-                        <li><a target="_blank" href="https://wiki.freifunk-rheinland.net/wiki/Hauptseite">Wiki</a></li>
+                        <li><a target="_blank" href="http://wiki.freifunk-niederrhein.de">Wiki</a></li>
                     </ul>
                 </nav>
             </header>
