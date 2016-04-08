@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 RewriteEngine On
 RewriteCond %{HTTPS} !=on
 RewriteCond %{ENV:HTTPS} !=on
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript text/javascript
+=======
+#RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+#RewriteCond %{ENV:HTTPS} !=on
+#RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+#AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript text/javascript
+>>>>>>> origin/master
 AddType application/vnd.bw-fontobject .eot
 AddType application/x-font-ttf .ttf
 AddType application/x-woff .woff
