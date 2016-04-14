@@ -16,7 +16,6 @@
 		Facebook: <a target="_blank" href="https://www.facebook.com/freifunkniederrhein">facebook.com/FreifunkNiederrhein</a><br>
 		Twitter: <a target="_blank" href="https://twitter.com/FFNiederrhein">@FFNiederrhein</a><br>
 		Slack: <a target="_blank" href="https://freifunkniederrhein.slack.com">#Freifunk-Niederrhein-Chat</a><br><br>
-		Derzeit nutzten wir hauptsächlich Slack, anmelden kannst du dich <a target="_blank" href="http://slackin-freifunkniederrhein.herokuapp.com">hier</a> <script async defer src="http://slackin-freifunkniederrhein.herokuapp.com/slackin.js?large"></script>
-		<br>
+		Derzeit nutzten wir hauptsächlich Slack, anmelden kannst du dich <a target="_blank" href="http://slackin-freifunkniederrhein.herokuapp.com">hier</a> 
 		</address>
 </div>
