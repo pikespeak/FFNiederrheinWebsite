@@ -2,16 +2,11 @@
 	<h3>Offline</h3>
 	<p>Freifunk Niederrhein ist ein Community mit Unterstützung des Freifunk Rheinland e. V. &ndash; Interessierte sind gerne eingeladen bei den Treffen des Freifunk Niederrein welches in den Teilnehmenden Städten stattfindet vorbei zu schauen.<br></p>
 	<address>
-<<<<<<< HEAD
+
 	Christian Nowak<br>
 	Am Gieselberg 128<br>
 	47638 Straelen<br>
 	Telefon: <a href="tel:0151 20081609">0151 20081609</a>
-
-
-=======
-		Telefon: <a href="tel:Christian: 0151 20081609">0151 20081609</a>
->>>>>>> origin/master
 	</address>
 </div>
 <div class="contact_right">
@@ -21,11 +16,7 @@
 		Facebook: <a target="_blank" href="https://www.facebook.com/freifunkniederrhein">facebook.com/FreifunkNiederrhein</a><br>
 		Twitter: <a target="_blank" href="https://twitter.com/FFNiederrhein">@FFNiederrhein</a><br>
 		Slack: <a target="_blank" href="https://freifunkniederrhein.slack.com">#Freifunk-Niederrhein-Chat</a><br><br>
-<<<<<<< HEAD
 		Derzeit nutzten wir hauptsächlich Slack, anmelden kannst du dich <a target="_blank" href="http://slackin-freifunkniederrhein.herokuapp.com">hier</a> <script async defer src="http://slackin-freifunkniederrhein.herokuapp.com/slackin.js?large"></script>
-=======
-		Derzeit nutzten wir hauptsächlich Slack, anmelden kannst du dich <a target="_blank" href="http://slackin-freifunkniederrhein.herokuapp.com">hier</a>: <script async defer src="http://slackin-freifunkniederrhein.herokuapp.com/slackin.js?large"></script>
->>>>>>> origin/master
 		<br>
 		</address>
 </div>
