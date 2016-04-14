@@ -130,18 +130,14 @@
 <aside class="participate_list-links">
     <h2>Links zu Freifunk Niederrhein</h2>
     <ul>
-        <li><a target="_blank" href="https://wiki.freifunk-rheinland.net/wiki/Hauptseite">Freifunk Rheinland Wiki</a> - Unser gesammeltes Wissen</li>
+        <li><a target="_blank" href="http://wiki.freifunk-niederrhein.de">Freifunk Niederrhein Wiki</a> - Unser gesammeltes Wissen</li>
         <li><a target="_blank" href="http://images.niederrhein.freifunk.ruhr">Freifunk Firmware</a> - Unsere Freifunk Firmware</li>
         <li><a target="_blank" href="https://github.com/ffruhr/">GitHub</a> - Unser Code zum Mitbasteln</li>
-<<<<<<< HEAD
         <li><a target="_blank" href="http://map.freifunk-niederrhein.de">Die Mesh-Map</a> - Unsere detailierte Knotenkarte</li>
-=======
-        <li><a target="_blank" href="http://map.niederrhein.freifunk.ruhr/meshviewer/fffl/">Die Mesh-Map</a> - Unsere detailierte Knotenkarte</li>
->>>>>>> origin/master
-        <li><a target="_blank" href="https://freifunk-rheinland.net/">Freifunk Rheinland e.V.</a></li>
     </ul>
     <h2>Allgemeine Freifunk Links</h2>
     <ul>
+        <li><a target="_blank" href="https://freifunk-rheinland.net/">Freifunk Rheinland e.V.</a></li>
         <li><a target="_blank" href="http://freifunk.net/">freifunk.net</a></li>
         <li><a target="_blank" href="http://wiki.freifunk.net/">Das Freifunk-Wiki</a></li>
     </ul>
